@@ -31,3 +31,39 @@ else
 {
     print("naur")
 }
+
+//On Your Own
+//Prob Set 1
+var num = 5
+var numnum = 7
+
+if num>numnum
+{
+    print("never back down, never what")
+}
+else
+{
+    print("never give up")
+}
+
+//prob set 2
+var tik = "You're the most jealous man I know."
+var tok = " You know other men?"
+
+if tok == " You know other men?"
+{
+    print(tik + tok)
+}
+
+//prob set 3
+var tru = true
+var fal = false
+
+if tru == false
+{
+    print("nuh uh")
+}
+else
+{
+    print("wdym nuh uh?")
+}
